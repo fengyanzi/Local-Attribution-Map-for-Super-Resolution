@@ -1,5 +1,8 @@
 # Local Attribution Map for Super-Resolution (LAM)
 
+- [x] Upload the code
+- [ ] Correct poor English expressions
+
 ## Project Introduction 项目简介
 
 This project is an unofficial implementation of Local Attribution Map for Super-Resolution (LAM). Considering the original project has a certain level of difficulty for beginners and is incompatible with PyTorch 2024, we provide a LAM implementation algorithm with detailed instructions. It aims to help researchers conduct advanced research in the field of super-resolution more efficiently, save time, and jointly promote technological progress.
