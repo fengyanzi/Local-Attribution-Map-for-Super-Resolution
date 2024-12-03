@@ -1,4 +1,4 @@
-# Local Attribution Map for Super-Resolution (LAM)
+# Local Attribution Map for Super-Resolution (LAM) (超分辨率局部归因图)
 
 - [x] Upload the code
 - [ ] Correct poor English expressions
