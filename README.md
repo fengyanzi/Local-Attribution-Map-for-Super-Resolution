@@ -14,7 +14,7 @@ This project is an unofficial implementation of Local Attribution Map for Super-
 
 ## Paper Link 论文地址
 
-[(https://arxiv.org/abs/2011.11036)](https://arxiv.org/abs/2011.11036)
+[https://arxiv.org/abs/2011.11036](https://arxiv.org/abs/2011.11036)
 
 
 ### Introduction 简介
