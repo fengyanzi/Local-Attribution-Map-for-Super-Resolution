@@ -27,13 +27,15 @@ The Local Attribution Map (LAM) is an interpretability tool designed for super-r
 
 ### Quick Start 快速上手
 Before using this project, ensure all required dependencies are installed. Install them via the following command:
+
 在使用该项目之前，请确保已安装所有必要的依赖库。你可以通过以下命令安装依赖：
 ```bash
 pip install -r requirements.txt
 
 ```
 Dependencies include commonly used Python libraries for deep learning:
-其中只包含一些常见的深度学习python库
+
+其中只包含一些常见的深度学习python库：
 ```plaintext
 numpy
 torch
@@ -46,6 +48,7 @@ tqdm
 ```
 
 To run the project, execute:
+
 要运行本项目，只需执行以下命令：
 
 ```bash
