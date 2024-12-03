@@ -1,6 +1,6 @@
 # Local Attribution Map for Super-Resolution (LAM)
 
-- [ ] Upload the code
+- [x] Upload the code
 - [ ] Correct poor English expressions
 
 ## Project Introduction 项目简介
@@ -26,6 +26,22 @@ The Local Attribution Map (LAM) is an interpretability tool for super-resolution
 ![LAM Example Image](./docx/lam.png) 
 
 ### Quick Start 快速上手
+在使用该项目之前，请确保已安装所有必要的依赖库。你可以通过以下命令安装依赖：
+```bash
+pip install -r requirements.txt
+
+```
+其中只包含一些常见的深度学习python库
+```bash
+numpy
+torch
+opencv-python
+torchvision
+Pillow
+matplotlib
+scipy
+tqdm
+```
 
 To run this project, simply execute the following command:
 要运行本项目，只需执行以下命令：
