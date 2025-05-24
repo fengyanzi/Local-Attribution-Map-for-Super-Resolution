@@ -1,15 +1,18 @@
 # Local Attribution Map for Super-Resolution (LAM) (超分辨率局部归因图)
 
-- [x] Upload the code
-- [ ] Correct poor English expressions
+## Promotion  推广
+Based on this project, we have further developed the DAM (Dehazing Attribution Map) specifically for dehazing tasks. This research has been accepted by CVPR 2025.  
+
+在该项目基础上，我们进一步开发了针对去雾任务的DAM（Dehazing Attribution Map），该研究已被CVPR 2025接受。 
+
+Project address 项目地址: [https://github.com/fengyanzi/DehazingAttributionMap](https://github.com/fengyanzi/DehazingAttributionMap)  
+Paper address 论文地址: [https://arxiv.org/abs/2504.09621](https://arxiv.org/abs/2504.09621)  
 
 ## Project Introduction 项目简介
 
 This project provides an unofficial implementation of the Local Attribution Map for Super-Resolution (LAM). To address challenges such as the steep learning curve of the original implementation and its incompatibility with PyTorch version widely used in 2024, we present an alternative LAM algorithm with comprehensive documentation. This project aims to assist researchers in conducting advanced super-resolution studies more efficiently, saving time, and driving technological progress collaboratively.
 
 本项目是对 Local Attribution Map for Super-Resolution (LAM) 的一个非官方实现。鉴于原项目存在一定的上手难度，并且不兼容2024年广泛使用的 PyTorch版本，我们提供了一个包含详细说明的 LAM 实现算法，旨在帮助研究者们更高效地开展超分辨率领域的先进研究，节约时间，共同促进技术进步。
-
-
 
 
 ## Paper Link 论文地址
